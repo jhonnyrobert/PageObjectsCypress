@@ -1,0 +1,11 @@
+{
+  "name": "TestePageObject",
+  "version": "1.0.0",
+  "description": "Projeto em cypress de testes automatizados",
+  "main": "index.js",
+  "author": "Jhonny Robert",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
